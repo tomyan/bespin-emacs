@@ -1,8 +1,11 @@
-vim like key mappings for bespin
---------------------------------
+!! This is not finished yet, fork it and help out if you like !!
 
-vim mappings & dvorak sepcific vim remapping plugins
-you need to install two plugins `vim.js` & `keymap-vim.js` or `keymap-vim-dvorak.js`
+emacs like key mappings for bespin
+----------------------------------
+
+emacs mappings & dvorak sepcific emacs remapping plugins, based on http://github.com/Gozala/bespin-vim
+you need to install two plugins `emacs.js` & `keymap-emacs.js` or `keymap-emacs-dvorak.js`
 depending on your needs you have to choose between last two.
 
-![vim cheat sheet](http://www.swaroopch.com/mediawiki/images/f/f2/Vi-vim-cheat-sheet.gif)
+![emacs cheat sheet](http://invisibleblocks.files.wordpress.com/2009/04/emacs_cheat_sheet.jpg)
+![emacs cheat sheet](http://farm5.static.flickr.com/4062/4329488129_c715f97db5.jpg)
